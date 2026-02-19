@@ -1,14 +1,22 @@
 # Data Analysis Portfolio – Anna Rupa Anthony
 
-Production Support | Data Quality | SQL | Python | Tableau
+Data Analyst | Business Intelligence | Systems Analyst
 
-This repository contains sample scripts and queries demonstrating skills in:
-- SQL-based data investigation and root-cause analysis
-- Data quality validation and reconciliation
-- Python data analysis and reporting automation
-- Tableau dashboard data preparation
+About Me
+I'm a Data Analyst and Business Intelligence professional with experience delivering data-driven insights across financial services and healthcare domains. I specialize in translating complex data into clear, actionable intelligence — building BI dashboards, designing data quality frameworks, and working as a systems analyst to improve how data flows through enterprise applications.
+I care about getting data right. That means not just finding errors, but tracing them back through end-to-end data flows, understanding why they happen, and proposing systematic solutions that prevent recurrence.
 
-These samples reflect real-world patterns from enterprise production support environments across **financial services** (incentive & partner programs) and **healthcare** (customer service operations & SLA monitoring) domains.
+What I Work With
+SQLMicrosoft SQL Server, Snowflake, Databricks,Tableau, Tableau Data Prep, Power BI, DAX,Data Quality, Reconciliation, Root-Cause Analysis, Data Governance,Jira, ServiceNow, SharePoint
+
+What's in This Repository
+This portfolio contains real-world style scripts and queries built from patterns in my production support work:
+
+🔍 Root-cause investigation — SQL queries that trace data discrepancies through upstream systems
+✅ Data quality checks — reusable validation rules for nulls, duplicates, referential integrity, and volume anomalies
+🔄 Reconciliation reports — source-to-target matching with break analysis and audit logging
+🐍 Python analysis — automated data profiling and anomaly detection across financial and healthcare datasets
+📊 Tableau prep queries — optimized SQL extracts with date dimensions and KPIs ready for dashboard consumption
 
 ---
 
